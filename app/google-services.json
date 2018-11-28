@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "872441140590",
+    "firebase_url": "https://tarha-driver.firebaseio.com",
+    "project_id": "tarha-driver",
+    "storage_bucket": "tarha-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872441140590:android:4825b334738048d8",
+        "android_client_info": {
+          "package_name": "com.surya.smoothmarkermovement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872441140590-mud0aul4j1h52q93jp45farqknp113t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surya.smoothmarkermovement",
+            "certificate_hash": "088354fb7c2fee2da9a0eaa161615b3118e23909"
+          }
+        },
+        {
+          "client_id": "872441140590-jrefcu2r4kfip35qfvf76vn7carv1783.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surya.smoothmarkermovement",
+            "certificate_hash": "c346648c2b545150f77e6b47a512a4f1e3b446e5"
+          }
+        },
+        {
+          "client_id": "872441140590-co5cfuirtefr377cov4e39itgtbv9i3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surya.smoothmarkermovement",
+            "certificate_hash": "512878f14a5d9553f6d8c5dee22e371189986076"
+          }
+        },
+        {
+          "client_id": "872441140590-fpou5duj9r3rdos08tslsuer1ttrhjhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surya.smoothmarkermovement",
+            "certificate_hash": "36ae1e8028d6ed7ef9859c357d10571f18067f4b"
+          }
+        },
+        {
+          "client_id": "872441140590-0qiagg24c56d8vbu2qa7nno8n87a4tf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-v2GDBwGnIGLM46J0dQ_uVFkMfr2HMLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872441140590-0qiagg24c56d8vbu2qa7nno8n87a4tf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
